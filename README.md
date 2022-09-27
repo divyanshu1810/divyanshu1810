@@ -11,7 +11,9 @@
 - ⭐ 2022's Objective: Contribute more to open source and master DSA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
 - ⚡ I love coding, football, cricket, photography and yeah coffee!. 
 <br/> 
- ![banner](https://user-images.githubusercontent.com/91051053/192587983-99846407-1b47-4cb6-a48c-c624e96204ab.png)
+
+ ![banner](https://user-images.githubusercontent.com/91051053/192588281-8b9b87ae-02e5-4718-8679-5ccae0dcc4a8.png)
+
 
  
 <h2>Languages and tools used<h2/>

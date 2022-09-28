@@ -13,8 +13,6 @@
 <br/> 
 
  ![banner](https://user-images.githubusercontent.com/91051053/192588281-8b9b87ae-02e5-4718-8679-5ccae0dcc4a8.png)
- [![@devyansh18's Holopin board](https://holopin.io/api/user/board?user=devyansh18)](https://holopin.io/@devyansh18)
-
 
  
 <h2>Languages and tools used<h2/>

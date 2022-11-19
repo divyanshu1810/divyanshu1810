@@ -21,7 +21,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" title="Python" height="32" width="32" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" title="C" height="32" width="32" />
   <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" title="Java" width="32" height="32"/>
-  <img src="https://codingthesmartway.com/wp-content/uploads/2017/12/logo_typescript.png" title="TypeScript" height="32" width="32" />
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" title="TypeScript" height="32" width="32" />
   <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" title="VS Code" height="32" width="32" />
   <img src="https://i.pinimg.com/originals/2f/d5/71/2fd57140c527c8b728a08c75fde34fac.png" title="Chrome Dev Tools" height="32" width="32" />
   <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" title="HTML" height="32" width="32" />

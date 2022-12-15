@@ -6,7 +6,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 🎓 I'm a 2nd Year Computer Science Engineering undergrad at SRMIST.  
-- 💻 I’m currently learning NextJs and TypeScript. 
+- 💻 I’m currently learning RemixJS and AWS. 
 - 👯 Looking to intern React Developers Role.
 - ⭐ 2022's Objective: Contribute more to open source and master DSA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
 - ⚡ I love coding, football, cricket, photography and yeah coffee!. 

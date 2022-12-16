@@ -44,20 +44,7 @@ title="Node.js" height="32" width="32" />
 
  
  [![@devyansh18's Holopin board](https://holopin.me/devyansh18)](https://holopin.io/@devyansh18)
-## Connect with me 
-<p align="center">
-  <a href="https://twitter.com/Devyansh18_" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href=""><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /><a/>
-  <a href="https://www.linkedin.com/in/divyanshu-yadav-b32a76220/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/devyansh18._/?hl=en" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://divyanshu1810.github.io/my-portfolio/" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-  <a href><img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /><a/> 
-  <a href=""><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /><a/>
-  <a href="https://open.spotify.com/user/31yiatzg676ra4ufpnvrw6jyz6dm?si=ahCrZjFpQHa1INLSKmKDrw&utm_source=native-share-menu&nd=1"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /><a/>
-</p>
-   
-   
-   
+      
  ## Stats
  <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu1810&theme=dark" width="45%" align="center"/>
@@ -69,6 +56,18 @@ title="Node.js" height="32" width="32" />
   <img src="https://github-profile-trophy.vercel.app/?username=divyanshu1810&row=1(https://github.com/divyanshu1810/github-profile-trophy)" />
 -->
 <p/>
+ 
+ ## Connect with me 
+<p align="center">
+  <a href="https://twitter.com/Devyansh18_" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href=""><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /><a/>
+  <a href="https://www.linkedin.com/in/divyanshu-yadav-b32a76220/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/devyansh18._/?hl=en" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://divyanshu1810.github.io/my-portfolio/" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+  <a href><img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /><a/> 
+  <a href=""><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /><a/>
+  <a href="https://open.spotify.com/user/31yiatzg676ra4ufpnvrw6jyz6dm?si=ahCrZjFpQHa1INLSKmKDrw&utm_source=native-share-menu&nd=1"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /><a/>
+</p>
  
    ## Facts
    ```

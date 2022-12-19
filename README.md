@@ -10,35 +10,14 @@
 - 👯 Looking to intern React Developers Role.
 - ⭐ 2022's Objective: Contribute more to open source and master DSA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
 - ⚡ I love coding, football, cricket, photography and yeah coffee!. 
+- 🚀 Succesfully Completed the Hactoberfest'22.
 <br/> 
 
  ![banner](https://user-images.githubusercontent.com/91051053/192588281-8b9b87ae-02e5-4718-8679-5ccae0dcc4a8.png)
  
 <h2>Languages and tools used<h2/>
-<p align="center">
-<!--   <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" title="JavaScript" height="32" width="32" /> -->
-<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" title="Python" height="32" width="32" /> -->
-<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" title="C" height="32" width="32" /> -->
-<!--   <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" title="Java" width="32" height="32"/> -->
-<!--   <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" title="TypeScript" height="32" width="32" /> -->
-<!--   <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" title="VS Code" height="32" width="32" /> -->
-<!--   <img src="https://i.pinimg.com/originals/2f/d5/71/2fd57140c527c8b728a08c75fde34fac.png" title="Chrome Dev Tools" height="32" width="32" /> -->
-<!--   <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" title="HTML" height="32" width="32" /> -->
-<!--   <img src="https://cdn.freebiesupply.com/logos/large/2x/css-3-logo-png-transparent.png" title="CSS" height="32" width="32" /> -->
-<!--   <img src="https://pluspng.com/img-png/jquery-logo-png--512.png" title="jQuery" height="32" width="32" /> -->
-<!--   <img src="https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png" title="Bootstrap" height="32" width="32" /> -->
-<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="ReactJs" height="32" width="32" /> -->
-<!--   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" title="Redux" height="32" width="32" /> -->
-<!--   <img src="https://user-images.githubusercontent.com/91051053/187465509-06d171e5-9cf2-41f2-8d4f-c9438188bd54.png" title="NEXT.js" height="32" width="32" /> -->
-<!--   <img src="https://user-images.githubusercontent.com/91051053/187464964-331a2c67-cbb3-40d1-8404-3d84c2194c41.png" -->
-<!-- title="Node.js" height="32" width="32" /> -->
-<!--   <img src="https://snehil.dev/images/svg/express.svg" title="Express.js" height="32" width="32" /> -->
-<!--   <img src="https://dwglogo.com/wp-content/uploads/2017/12/MongoDB_logo_01.png" title="MongoDB" height="32" width="32" /> -->
-<!--   <img src="https://user-images.githubusercontent.com/91051053/187465231-49e2fa22-5f26-4eb0-bd20-ebff03d96a04.png" title="Firebase" height="32" width="32" /> -->
-<!--   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" height="32" width="32" /> -->
-<!--   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" title="GitHub" height="32" width="32" /> -->
-<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" title="Figma" height="32" width="32" /> -->
-<!--  <img src="https://user-images.githubusercontent.com/91051053/187466454-b18f2116-5469-4436-8e54-9de3aed1dcd4.png" title="Alexa" height="32" width="32" /> -->
+
+ <p align="center">
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img/>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img/>
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><img/>
@@ -74,7 +53,7 @@
 </p>
 
  
- [![@devyansh18's Holopin board](https://holopin.me/devyansh18)](https://holopin.io/@devyansh18)
+<!--  [![@devyansh18's Holopin board](https://holopin.me/devyansh18)](https://holopin.io/@devyansh18) -->
       
  ## Stats
  <p align="center">

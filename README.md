@@ -88,4 +88,8 @@
   
   I say "Explorer of all Trades, Master of One".
   ```
-![visitors](https://visitor-badge.glitch.me/badge?page_id=divyanshu1810.visitor-badge)
+   
+   <p align="center">
+    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=divyanshu1810.visitor-badge" alt="Visitors Badge"><img/>
+   <p/>
+   

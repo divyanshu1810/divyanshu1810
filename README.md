@@ -67,8 +67,8 @@
 -->
 <!-- <p/> --> 
  <p align="center">
-         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divyanshu1810&theme=dracula" />
-        <img alt= "stats card" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyanshu1810&theme=dracula">
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divyanshu1810&theme=radical" />
+        <img alt= "stats card" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyanshu1810&theme=radical">
 
 <p>
  

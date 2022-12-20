@@ -56,7 +56,7 @@
 <!--  [![@devyansh18's Holopin board](https://holopin.me/devyansh18)](https://holopin.io/@devyansh18) -->
       
  ## Stats
- <p align="center">
+<!--  <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu1810&theme=dark" width="45%" align="center"/>
  <img src="https://github-readme-stats.vercel.app/api?username=divyanshu1810&theme=dark&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="45%" align="center"/>
   <br/>
@@ -65,7 +65,12 @@
  <!--
   <img src="https://github-profile-trophy.vercel.app/?username=divyanshu1810&row=1(https://github.com/divyanshu1810/github-profile-trophy)" />
 -->
-<p/>
+<!-- <p/> --> 
+ <p align="center">
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divyanshu1810&theme=dracula" />
+        <img alt= "stats card" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyanshu1810&theme=dracula">
+
+<p>
  
  ## Connect with me 
 <p align="center">

@@ -1,23 +1,25 @@
-![Divyanshu Yadav (5)](https://user-images.githubusercontent.com/91051053/190860704-48723df0-5c19-465a-afae-b94973bfc74b.png)
+<!-- ![Divyanshu Yadav (5)](https://user-images.githubusercontent.com/91051053/190860704-48723df0-5c19-465a-afae-b94973bfc74b.png) -->
+# Hi there, I'm <a href="https://www.linkedin.com/in/divyanshu-yadav-b32a76220/" target="_blank" rel="noopener noreferrer">Divyanshu Yadav</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
+ 
+<!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
+<img align="right" alt="GIF" height="160px" src="https://user-images.githubusercontent.com/91051053/219441109-ae96da6a-1644-45f6-bb8d-321d39fb996f.png" />
+ 
 
-
-
-## <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/divyanshu-yadav-b32a76220/" target="_blank" rel="noopener noreferrer">Divyanshu Yadav</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
+ 
+ 
 - 🎓 I'm a 2nd Year Computer Science Engineering undergrad at SRMIST.  
 - 💻 I’m currently learning RemixJS and AWS. 
 - 👯 Looking to intern React Developers Role.
-- ⭐ 2022's Objective: Contribute more to open source and master DSA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
+- ⭐ 2023's Objective: Contribute more to open source and master DSA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
 - ⚡ I love coding, football, cricket, photography and yeah coffee!. 
-- 🚀 Succesfully Completed the Hactoberfest'22.
+<!-- - 🚀 Succesfully Completed the Hactoberfest'22. -->
 <br/> 
 
- ![banner](https://user-images.githubusercontent.com/91051053/192588281-8b9b87ae-02e5-4718-8679-5ccae0dcc4a8.png)
+<!--  ![banner](https://user-images.githubusercontent.com/91051053/192588281-8b9b87ae-02e5-4718-8679-5ccae0dcc4a8.png) -->
  
-<h2>Languages and tools used<h2/>
+<!-- <h2>Languages and tools used<h2/> -->
 
- <p align="center">
+<!--  <p align="center">
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img/>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img/>
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><img/>
@@ -51,7 +53,7 @@
  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"><img/>
  <img src="https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white"><img/>
 </p>
-
+ -->
  
 <!--  [![@devyansh18's Holopin board](https://holopin.me/devyansh18)](https://holopin.io/@devyansh18) -->
       
@@ -84,7 +86,7 @@
   <a href="https://open.spotify.com/user/31yiatzg676ra4ufpnvrw6jyz6dm?si=ahCrZjFpQHa1INLSKmKDrw&utm_source=native-share-menu&nd=1"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /><a/>
 </p>
  
-   ## Facts
+<!--    ## Facts
    ```
   >> java facts.java
   
@@ -97,4 +99,4 @@
    <p align="center">
     <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=divyanshu1810.visitor-badge" alt="Visitors Badge"><img/>
    <p/>
-   
+    -->

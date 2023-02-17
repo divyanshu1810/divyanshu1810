@@ -2,7 +2,7 @@
 # Hi there, I'm <a href="https://www.linkedin.com/in/divyanshu-yadav-b32a76220/" target="_blank" rel="noopener noreferrer">Divyanshu Yadav</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
  
 <!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
-<img align="right" alt="GIF" height="160px" src="https://user-images.githubusercontent.com/91051053/219441109-ae96da6a-1644-45f6-bb8d-321d39fb996f.png" />
+<img align="right" alt="GIF" height="140px" src="https://user-images.githubusercontent.com/91051053/219441109-ae96da6a-1644-45f6-bb8d-321d39fb996f.png" />
  
 
  

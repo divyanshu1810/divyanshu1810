@@ -12,7 +12,7 @@
 - 👯 Looking to intern React Developers Role.
 - ⭐ 2023's Objective: Contribute more to open source and master DSA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
 - ⚡ I love coding, football, cricket, photography and yeah coffee!. 
-<!-- - 🚀 Succesfully Completed the Hactoberfest'22. -->
+- 🚀 Working with Node, Express, React/Redux and Tailwind.
 <br/> 
 
 <!--  ![banner](https://user-images.githubusercontent.com/91051053/192588281-8b9b87ae-02e5-4718-8679-5ccae0dcc4a8.png) -->

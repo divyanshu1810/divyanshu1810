@@ -7,9 +7,9 @@
 
  
  
-- 🎓 I'm a 2nd Year Computer Science Engineering undergrad at SRMIST.  
+- 🎓 I'm a 3rd Year Computer Science Engineering undergrad at SRMIST.  
 - 💻 I’m currently learning RemixJS and AWS. 
-- 👯 Looking to intern React Developers Role.
+- 👯 Looking to intern Full Stack Developers Role.
 - ⭐ 2023's Objective: Contribute more to open source and master DSA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
 - ⚡ I love coding, football, cricket, photography and yeah coffee!. 
 - 🚀 Working with Node, Express, React/Redux and Tailwind.

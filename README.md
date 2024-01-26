@@ -17,7 +17,7 @@
 
 <!--  ![banner](https://user-images.githubusercontent.com/91051053/192588281-8b9b87ae-02e5-4718-8679-5ccae0dcc4a8.png) -->
  
-## Languages and tools used
+<!-- ## Languages and tools used
 <p align="center">
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img/>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img/>
@@ -54,7 +54,7 @@
  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"><img/>
  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"><img/>
  <img src="https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white"><img/>
-</p> 
+</p> -->
 <!--  [![@devyansh18's Holopin board](https://holopin.me/devyansh18)](https://holopin.io/@devyansh18) -->
       
  ## Stats
@@ -96,7 +96,7 @@
   I say "Explorer of all Trades, Master of One".
   ```
 -->   
-   <p align="center">
+  <!-- <p align="center">
     <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=divyanshu1810.visitor-badge" alt="Visitors Badge"><img/>
-   <p/>
+   <p/> -->
     

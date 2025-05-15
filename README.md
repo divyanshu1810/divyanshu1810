@@ -7,9 +7,9 @@
 
  
  
-- 🎓 I'm a 4th Year Computer Science Engineering undergrad at SRMIST.  
-- 💻 I’m currently working as a Product Engineer at @kuddle-com
-- ⭐ 2024's Objective: Contribute more to open source and master DSA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
+<!-- - 🎓 I'm a 4th Year Computer Science Engineering undergrad at SRMIST.   -->
+- 💻 I’m currently working as a Founding Engineer at @emendate
+- ⭐ 2025's Objective: Contribute more to open source and master DSA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
 - ⚡ I love coding, football, cricket, photography and yeah coffee!. 
 - 🚀 Working with Node, Express, React/Redux, TypeScript, AWS, Flutter, Kotlin and Tailwind.
 <br/> 

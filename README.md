@@ -2,17 +2,17 @@
 # Hi there, I'm <a href="https://www.linkedin.com/in/divyanshu-yadav-b32a76220/" target="_blank" rel="noopener noreferrer">Divyanshu Yadav</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
  
 <!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
-<!-- <img align="right" alt="GIF" height="140px" src="https://user-images.githubusercontent.com/91051053/219441109-ae96da6a-1644-45f6-bb8d-321d39fb996f.png" /> -->
+<img align="right" alt="GIF" height="140px" src="https://user-images.githubusercontent.com/91051053/219441109-ae96da6a-1644-45f6-bb8d-321d39fb996f.png" />
  
 
  
  
-<!-- - 🎓 I'm a 4th Year Computer Science Engineering undergrad at SRMIST.  
+<!-- - 🎓 I'm a 4th Year Computer Science Engineering undergrad at SRMIST.    -->
 - 💻 I’m currently working as a Founding Engineer at @emendate
 - ⭐ 2025's Objective: Contribute more to open source and master DSA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
 - ⚡ I love coding, football, cricket, photography and yeah coffee!. 
 - 🚀 Working with Node, Express, React/Redux, TypeScript, AWS, Flutter, Kotlin and Tailwind.
-<br/>   -->
+<br/> 
 
 <!--  ![banner](https://user-images.githubusercontent.com/91051053/192588281-8b9b87ae-02e5-4718-8679-5ccae0dcc4a8.png) -->
  

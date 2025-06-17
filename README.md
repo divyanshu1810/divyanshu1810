@@ -7,12 +7,12 @@
 
  
  
-<!-- - 🎓 I'm a 4th Year Computer Science Engineering undergrad at SRMIST.   -->
+<!-- - 🎓 I'm a 4th Year Computer Science Engineering undergrad at SRMIST.  
 - 💻 I’m currently working as a Founding Engineer at @emendate
 - ⭐ 2025's Objective: Contribute more to open source and master DSA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
 - ⚡ I love coding, football, cricket, photography and yeah coffee!. 
 - 🚀 Working with Node, Express, React/Redux, TypeScript, AWS, Flutter, Kotlin and Tailwind.
-<br/> 
+<br/>   -->
 
 <!--  ![banner](https://user-images.githubusercontent.com/91051053/192588281-8b9b87ae-02e5-4718-8679-5ccae0dcc4a8.png) -->
  

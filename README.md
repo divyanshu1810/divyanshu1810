@@ -49,8 +49,8 @@ I’m a full-stack developer on a mission to transform ideas into real-world pro
 
 | Frontend | Backend | Cloud & DB | Mobile & Tools |
 |----------|---------|------------|----------------|
-| React.js, Next.js, Chakra UI | Node.js, Express, GraphQL, Kotlin | AWS, PostgreSQL, MongoDB, Firebase | React Native, Flutter |
-| Tailwind CSS, Framer Motion | Docker, Microservices, Serverless | Redis | Redux, GitHub Actions, Jest |
+| React.js, Next.js | Node.js, Express, GraphQL, Kotlin | AWS, PostgreSQL, MongoDB, Firebase | React Native, Flutter |
+| Tailwind CSS, Framer Motion, SCSS | Docker, Microservices, Serverless | Redis | Redux, GitHub Actions, Jest |
 
 ---
 

@@ -1,7 +1,7 @@
 # Hi there 👋, I'm **Divyanshu Yadav** ([@divyanshu1810](https://github.com/divyanshu1810))
 
 ## 🚀 About Me
-I’m a full-stack developer on a mission to transform ideas into real-world products. I specialize in taking concepts from 0 → 1 through end-to-end development.
+I’m a full-stack developer and someone who turns ideas into real-world products. I specialize in taking concepts from 0 → 1 through end-to-end development.
 
 **🛠️ Tech Stack Highlights:**
 - **Frontend**: React, Next.js, React Native, Flutter

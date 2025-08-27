@@ -5,7 +5,7 @@ I’m a full-stack developer and someone who turns ideas into real-world product
 
 **🛠️ Tech Stack Highlights:**
 - **Frontend**: React, Next.js, React Native, Flutter
-- **Backend**: Node.js, microservices, REST APIs, GraphQL
+- **Backend**: Node.js, Spring Boot, microservices, REST APIs, GraphQL
 - **Cloud & Databases**: AWS (Lambda, ECS, S3, DynamoDB, RDS), PostgreSQL, MongoDB, Firebase
 - **DevOps & CI/CD**: Docker, Kubernetes, Jenkins, GitHub Actions
 
@@ -49,7 +49,7 @@ I’m a full-stack developer and someone who turns ideas into real-world product
 
 | Frontend | Backend | Cloud & DB | Mobile & Tools |
 |----------|---------|------------|----------------|
-| React.js, Next.js | Node.js, Express, GraphQL, Kotlin | AWS, PostgreSQL, MongoDB, Firebase | React Native, Flutter |
+| React.js, Next.js | Node.js, Spring Boot, Express, GraphQL, Kotlin | AWS, PostgreSQL, MongoDB, Firebase | React Native, Flutter |
 | Tailwind CSS, Framer Motion, SCSS | Docker, Microservices, Serverless | Redis | Redux, GitHub Actions, Jest |
 
 ---

@@ -1,25 +1,25 @@
 # Hi there 👋, I'm **Divyanshu Yadav** ([@divyanshu1810](https://github.com/divyanshu1810))
 
 ## 🚀 About Me
-I’m a full-stack developer and someone who turns ideas into real-world products. I specialize in taking concepts from 0 → 1 through end-to-end development.
+
+I'm a Specialist Programmer at Infosys building agentic AI systems — turning complex ideas into production-grade, multi-agent pipelines. I specialize in LLM orchestration, distributed backends, and full-stack AI products from 0 → 1.
 
 **🛠️ Tech Stack Highlights:**
-- **Frontend**: React, Next.js, React Native, Flutter
-- **Backend**: Node.js, Spring Boot, microservices, REST APIs, GraphQL
-- **Cloud & Databases**: AWS (Lambda, ECS, S3, DynamoDB, RDS), PostgreSQL, MongoDB, Firebase
-- **DevOps & CI/CD**: Docker, Kubernetes, Jenkins, GitHub Actions
+- **AI/Agentic**: LangGraph, LangChain, Google ADK, MCP, A2A Protocol, LangFuse, LLM Guard, RAG, FAISS, ChromaDB
+- **Backend**: FastAPI, Spring Boot, Express.js, GraphQL, Kafka, microservices
+- **Frontend**: React.js, Next.js, React Native
+- **Cloud & Databases**: AWS (Bedrock, Lambda, S3, Cognito, CDK, SQS, SNS, EventBridge), PostgreSQL, Aurora, MongoDB, DynamoDB, Redis, Firebase
+- **Languages**: Java, Python, TypeScript, JavaScript
 
 **💡 Specialties**:
-- Building scalable microservices architectures  
-- Architecting robust backend systems  
-- Designing and developing cross-platform mobile apps  
-- Setting up CI/CD pipelines and automated deployments  
-- Optimizing application performance and scalability  
-- Managing cloud infrastructure and serverless applications  
-- Implementing secure authentication and authorization flows  
-- End-to-end product development  
+- Designing multi-agent agentic AI systems with LangGraph + Google ADK
+- Integrating MCP servers and A2A Protocol for tool gating and agent communication
+- Building RAG pipelines with FAISS, adaptive retrieval, and self-reflective agents
+- LLM observability and tracing with LangFuse
+- Scalable microservices on AWS with serverless-first architecture
+- End-to-end AI product development — from OCR ingestion to Streamlit dashboards
 
-**⚽ Outside of Coding**: Football, Cricket, and F1 fan 🏎️
+**⚽ Outside of Coding**: Football, Cricket, and F1 fan 🏎️ | Technical Blogger on Medium | 4x Hackathon Winner
 
 ---
 
@@ -34,7 +34,6 @@ I’m a full-stack developer and someone who turns ideas into real-world product
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=divyanshu1810&theme=radical" alt="GitHub Streak" width="98%"/>
 </p>
-
 </details>
 
 ---
@@ -47,20 +46,33 @@ I’m a full-stack developer and someone who turns ideas into real-world product
 
 ## ✨ Technologies I Work With
 
-| Frontend | Backend | Cloud & DB | Mobile & Tools |
-|----------|---------|------------|----------------|
-| React.js, Next.js | Node.js, Spring Boot, Express, GraphQL, Kotlin | AWS, PostgreSQL, MongoDB, Firebase | React Native, Flutter |
-| Tailwind CSS, Framer Motion, SCSS | Docker, Microservices, Serverless | Redis | Redux, GitHub Actions, Jest |
+| AI/Agentic | Backend | Cloud & DB | Frontend |
+|------------|---------|------------|----------|
+| LangGraph, LangChain, Google ADK | FastAPI, Spring Boot, Express.js, GraphQL | AWS (Bedrock, Lambda, S3, CDK, SQS) | React.js, Next.js, React Native |
+| MCP, A2A Protocol, LangFuse | Kafka, Microservices, Docker | PostgreSQL, Aurora, MongoDB, DynamoDB | TypeScript, Tailwind CSS |
+| RAG, FAISS, ChromaDB, LLM Guard | Tesseract OCR, LiteLLM | Redis, Firebase, Supabase | Zustand, Redux |
 
 ---
 
-## 🛠️ How I Take an Idea from 0 → 1
+## 🏆 Highlights
+
+- 🥇 Winner — Standard Chartered Hackathon 2024
+- 🥇 Winner — Codefest Hackathon 2024
+- 📝 Technical Blogger on Medium (RAG, HTTP, agentic systems)
+- 💻 500+ LeetCode | 1,000+ competitive programming problems
+- 🎓 CGPA 9.61 / 10.0 — SRM IST
+
+---
+
+## 🛠️ How I Build an AI Product from 0 → 1
 
 ```mermaid
 stateDiagram-v2
     [*] --> 💡Idea
-    💡Idea --> 📝Design
-    📝Design --> 🔧Build
-    🔧Build --> 🧪Test
-    🧪Test --> 🚀Deploy
+    💡Idea --> 🧩Architect
+    🧩Architect --> 🔧Build
+    🔧Build --> 🤖AgenticPipeline
+    🤖AgenticPipeline --> 📊Observability
+    📊Observability --> 🚀Deploy
     🚀Deploy --> 📈Scale & Improve
+```
